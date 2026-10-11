@@ -21,7 +21,7 @@ In the menu that appears, type the number corresponding to one of the Green opti
 ### Method 2 - Traditional (Windows Vista and later)
 
 Download the script:
-- [MAS_AIO.cmd.txt](https://raw.githubusercontent.com/tawhidsorker-gif/tawhid-microsoft-activation/main/MAS_AIO.cmd.txt) (Direct script)
+- [MAS_AIO.cmd.txt](https://github.com/tawhidsorker-gif/tawhid-microsoft-activation/raw/main/MAS_AIO.cmd.txt) (Direct script)
 - [Microsoft-Activation-Scripts.zip](https://github.com/tawhidsorker-gif/tawhid-microsoft-activation/raw/main/Microsoft-Activation-Scripts.zip) (If the direct script is blocked by your browser)
 
 Run the MAS_AIO.cmd file.
