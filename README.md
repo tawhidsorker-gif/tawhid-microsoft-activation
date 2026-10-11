@@ -1,14 +1,6 @@
-<div align="center">
 # 🚀 Microsoft Activation Scripts (MAS)
 **A clean, open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods.**
-[![Version](https://img.shields.io/badge/version-3.12-blue.svg?style=for-the-badge)](https://github.com/tawhidsorker-gif/tawhid-microsoft-activation)
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg?style=for-the-badge)](https://github.com/tawhidsorker-gif/tawhid-microsoft-activation)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/tawhidsorker-gif/tawhid-microsoft-activation)
 ---
-### 📌 Quick Navigation
-[Overview](#-overview) • [Activation Methods](#-activation-methods) • [How to Use](#-how-to-use) • [Troubleshooting](#-troubleshooting) • [Disclaimer](#-disclaimer)
----
-</div>
 ## 📖 Overview
 **Microsoft Activation Scripts (MAS)** is an open-source tool designed to activate Windows and Microsoft Office products seamlessly. It provides multiple activation methods depending on your system requirements, ensuring a fast, clean, and reliable setup.
 ### ✨ Key Features
