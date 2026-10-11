@@ -1,8 +1,5 @@
 # 🚀 Microsoft Activation Scripts (MAS)
-<div align="center">
-<img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Logo">
 **A clean, open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.**
-</div>
 ---
 ## 📖 Overview
 **Microsoft Activation Scripts (MAS)** is an open-source tool designed to activate Windows and Microsoft Office products seamlessly. It provides multiple activation methods depending on your system requirements, ensuring a fast, clean, and reliable setup.
