@@ -25,9 +25,9 @@ This is the easiest and fastest method. No file downloads are necessary.
 1. Right-click on the **Start Menu** and select **PowerShell** or **Terminal**.
 2. Copy and paste the command below, then press **Enter**:
 For Windows 8.1, 10 and 11:
-`irm [https://get.activated.win](https://get.activated.win) | iex`
+<pre><code>irm https://get.activated.win | iex</code></pre>
 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):
-`iex (curl.exe -s --doh-url [https://1.1.1.1/dns-query](https://1.1.1.1/dns-query) [https://get.activated.win](https://get.activated.win) | Out-String)`
+<pre><code>iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)</code></pre>
 > **Script not launching?** Use the below-listed Method 2.
 3. In the menu that appears, type the number corresponding to one of the Green options.
 ---
